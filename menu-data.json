@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Espresso",
+    "category": "Káva",
+    "image": "espresso.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Espresso macchiato",
+    "category": "Káva",
+    "image": "espresso-macchiato.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Espresso lungo",
+    "category": "Káva",
+    "image": "espresso-lungo.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Espresso doppio",
+    "category": "Káva",
+    "image": "espresso-doppio.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Americano",
+    "category": "Káva",
+    "image": "americano.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Zalievaná káva",
+    "category": "Káva",
+    "image": "zalievana-kava.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Viedenská káva",
+    "category": "Káva",
+    "image": "viedenska-kava.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Alžírska káva",
+    "category": "Káva",
+    "image": "alzirska-kava.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Cappuccino",
+    "category": "Káva",
+    "image": "cappuccino.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Latte macchiato",
+    "category": "Káva",
+    "image": "latte-macchiato.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Flat white",
+    "category": "Káva",
+    "image": "flat-white.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Iced latte",
+    "category": "Káva",
+    "image": "iced-latte.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Latte",
+    "category": "Káva",
+    "image": "lattes.jpg",
+    "description": "pumpkin spice/gingerbread/marshmallow caramel",
+    "ingredients": ""
+  },
+  {
+    "name": "Macáčino",
+    "category": "Káva",
+    "image": "macacino.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Frappé",
+    "category": "Káva",
+    "image": "frappe.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Espresso",
+    "category": "Káva",
+    "image": "espressos.jpg",
+    "description": "tonic/orange",
+    "ingredients": ""
+  },
+  {
+    "name": "Affogato",
+    "category": "Káva",
+    "image": "affogato.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Matcha cappuccino",
+    "category": "Matcha",
+    "image": "matcha-cappuccino.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Matcha latte",
+    "category": "Matcha",
+    "image": "matcha-latte.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Iced matcha latte",
+    "category": "Matcha",
+    "image": "iced-matcha-latte.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Matcha limonáda",
+    "category": "Matcha",
+    "image": "matcha-limonada.jpg",
+    "description": "sirup podla ponuky",
+    "ingredients": ""
+  },
+  {
+    "name": "Matcha tonic",
+    "category": "Matcha",
+    "image": "matcha-tonic.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Matcha affogato",
+    "category": "Matcha",
+    "image": "matcha-affogato.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Čaje Harney & Sons",
+    "category": "Horúce nápoje",
+    "image": "caje-harney-sons.jpg",
+    "description": "Zelený, čierny, ovocný, kamilkový jazmínový, grey",
+    "ingredients": ""
+  },
+  {
+    "name": "Horúce",
+    "category": "Horúce nápoje",
+    "image": "horuce.jpg",
+    "description": "malina/jablko/hruška",
+    "ingredients": ""
+  },
+  {
+    "name": "Horúce kakao",
+    "category": "Horúce nápoje",
+    "image": null,
+    "description": "Šľahačka, marshmallow",
+    "ingredients": ""
+  },
+  {
+    "name": "Horúca čokoláda so šľahačkou",
+    "category": "Horúce nápoje",
+    "image": null,
+    "description": "Horká, mliečna alebo biela",
+    "ingredients": ""
+  },
+  {
+    "name": "Horúca čokoláda s vaječným likérom",
+    "category": "Horúce nápoje",
+    "image": null,
+    "description": "So šľahačkou",
+    "ingredients": ""
+  },
+  {
+    "name": "Babyccino",
+    "category": "Horúce nápoje",
+    "image": null,
+    "description": "Mlieko, šľahačka, kakao posyp",
+    "ingredients": ""
+  },
+  {
+    "name": "Shake",
+    "category": "Milkshakes",
+    "image": "shakes1.jpg",
+    "description": "vanilkový/čokoladový/jahodový • 250 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Shake",
+    "category": "Milkshakes",
+    "image": "shakes.jpg",
+    "description": "lotus/cookie/oreo • 250 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Shake",
+    "category": "Milkshakes",
+    "image": "shakes3.jpg",
+    "description": "matcha/mocha/bananový • 250 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Shake",
+    "category": "Milkshakes",
+    "image": "shakes2.jpg",
+    "description": "vanilkový freak,čokoladový freak,jahodový freak • 250 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Pomarančová limonáda",
+    "category": "Limonády",
+    "image": "pomarancova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Levanduľová limonáda",
+    "category": "Limonády",
+    "image": "levandulova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Malinová limonáda",
+    "category": "Limonády",
+    "image": "malinova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Citrónová limonáda",
+    "category": "Limonády",
+    "image": "citronova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Zázvorová limonáda",
+    "category": "Limonády",
+    "image": "zazvorova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Kiwi limonáda",
+    "category": "Limonády",
+    "image": "kiwi-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Melónová limonáda",
+    "category": "Limonády",
+    "image": "melonova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Bazová limonáda",
+    "category": "Limonády",
+    "image": "bazova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Jahodová limonáda",
+    "category": "Limonády",
+    "image": "jahodova-limonada.jpg",
+    "description": "350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Limonády",
+    "category": "Limonády",
+    "image": "limonady3.jpg",
+    "description": "mandarínka/lesná zmes/malina limetka • 350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Limonády",
+    "category": "Limonády",
+    "image": "limonady2.jpg",
+    "description": "mango marakuja/dračie ovocie • 350 ml",
+    "ingredients": ""
+  },
+  {
+    "name": "Piña Colada 0%",
+    "category": "Mocktails",
+    "image": "pina-colada.jpg",
+    "description": "300 ml",
+    "ingredients": "Smotana, coconut Monin, ananásový džús, kokteilová čerešňa."
+  },
+  {
+    "name": "Nealko Mojito",
+    "category": "Mocktails",
+    "image": "nealko-mojito.jpg",
+    "description": "400 ml",
+    "ingredients": "Limetka, trstinový cukor, mäta, mojito mint Monin, sóda, ľad."
+  },
+  {
+    "name": "Nealko mojitos",
+    "category": "Mocktails",
+    "image": "mojitos.jpg",
+    "description": "kiwi/jahoda • 400 ml",
+    "ingredients": "Limetka, trstinový cukor, mäta, mojito mint Monin, kiwi alebo jahoda Monin, sóda, ľad."
+  },
+  {
+    "name": "Mojito",
+    "category": "Cocktails",
+    "image": "mojito.jpg",
+    "description": "400 ml",
+    "ingredients": "Limetka, trstinový cukor, mäta, mojito mint Monin, sóda, ľad, rum."
+  },
+  {
+    "name": "Kiwi mojito",
+    "category": "Cocktails",
+    "image": "mojitos.jpg",
+    "description": "kiwi/jahoda • 400 ml",
+    "ingredients": "Limetka, trstinový cukor, mäta, mojito mint Monin, kiwi Monin, sóda, ľad, rum."
+  },
+  {
+    "name": "Cuba Libre",
+    "category": "Cocktails",
+    "image": "cuba-libre.jpg",
+    "description": "350 ml",
+    "ingredients": "Pepsi, rum, šťava z limetky."
+  },
+  {
+    "name": "Piña Colada",
+    "category": "Cocktails",
+    "image": "pi-a-colada.jpg",
+    "description": "300 ml",
+    "ingredients": "Smotana, coconut Monin, ananásový džús, rum."
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Cocktails",
+    "image": "aperol-spritz.jpg",
+    "description": "450 ml",
+    "ingredients": "Aperol, prosecco, sóda, ľad."
+  },
+  {
+    "name": "Hugo",
+    "category": "Cocktails",
+    "image": "hugo.jpg",
+    "description": "450 ml",
+    "ingredients": "Bazový sirup, prosecco, sóda, ľad."
+  },
+  {
+    "name": "Rossini",
+    "category": "Cocktails",
+    "image": "rossini.jpg",
+    "description": "450 ml",
+    "ingredients": "Jahoda Monin, prosecco, sóda, ľad."
+  },
+  {
+    "name": "Sladký toast",
+    "category": "Sladké",
+    "image": "sladky-toast.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Sladký croissant",
+    "category": "Sladké",
+    "image": "sladky-croissant.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Lievance s javorovým sirupom",
+    "category": "Sladké",
+    "image": "lievance-s-javorovym-sirupom.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Kinder Wafľa",
+    "category": "Sladké",
+    "image": "kinder-wafla.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Oreo Wafľa",
+    "category": "Sladké",
+    "image": "oreo-wafla.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Ovocná Wafľa",
+    "category": "Sladké",
+    "image": "ovocna-wafla.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Lotus Wafľa",
+    "category": "Sladké",
+    "image": "lotus-wafla.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Sladké",
+    "image": "cheesecake.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Zmrzlinový pohár",
+    "category": "Sladké",
+    "image": "zmrzlinovy-pohar.jpg",
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Popcorn",
+    "category": "Snacks",
+    "image": null,
+    "description": "Slaný alebo maslový",
+    "ingredients": ""
+  },
+  {
+    "name": "Chipsy",
+    "category": "Snacks",
+    "image": null,
+    "description": "Solené alebo paprikové",
+    "ingredients": ""
+  },
+  {
+    "name": "Nachos so syrovým dipom",
+    "category": "Snacks",
+    "image": null,
+    "description": "",
+    "ingredients": ""
+  },
+  {
+    "name": "Linecká kitty",
+    "category": "Snacks",
+    "image": null,
+    "description": "Džem",
+    "ingredients": ""
+  },
+  {
+    "name": "Domáce cookies",
+    "category": "Snacks",
+    "image": null,
+    "description": "Čokoládové",
+    "ingredients": ""
+  },
+  {
+    "name": "AHA cookies",
+    "category": "Snacks",
+    "image": "aha-cookies.jpg",
+    "description": "Choco chip, double choco, red velvet",
+    "ingredients": ""
+  },
+  {
+    "name": "Toast klasik",
+    "category": "Slané jedlo",
+    "image": "toast-klasik.jpg",
+    "description": "Šunka, syr • paradajky, uhorky",
+    "ingredients": ""
+  },
+  {
+    "name": "Croissant klasik",
+    "category": "Slané jedlo",
+    "image": "croissant-klasik.jpg",
+    "description": "Šunka, syr • paradajky, uhorky",
+    "ingredients": ""
+  },
+  {
+    "name": "Panini klasik",
+    "category": "Slané jedlo",
+    "image": "panini-klasik.jpg",
+    "description": "Šunka, syr • paradajky, uhorky",
+    "ingredients": ""
+  },
+  {
+    "name": "Panini capresse",
+    "category": "Slané jedlo",
+    "image": "panini-capresse.jpg",
+    "description": "Bazalkové paradajkové pesto, mozzarella, syr",
+    "ingredients": ""
+  },
+  {
+    "name": "Panini vegan",
+    "category": "Slané jedlo",
+    "image": "panini-vegan.jpg",
+    "description": "Vegan syr s jablkom",
+    "ingredients": ""
+  },
+  {
+    "name": "Toast vegan",
+    "category": "Slané jedlo",
+    "image": "toast-vegan.jpg",
+    "description": "Vegan syr s jablkom",
+    "ingredients": ""
+  }
+]
