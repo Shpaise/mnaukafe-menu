@@ -18,3 +18,5 @@
 .lang-switch button{border:0;background:transparent;padding:4px 5px;font:700 12px 'DM Sans';color:var(--muted);cursor:pointer}
 .lang-switch button.active{color:var(--ink)}
 .lang-switch span{color:#c1b3a6;font-size:12px}
+
+.card-meta{display:flex;justify-content:space-between;align-items:center;margin-top:14px;padding-top:12px;border-top:1px solid #e4d8cd;font-size:13px}.card-meta span{color:var(--muted)}.card-meta strong{color:var(--rose);font-size:16px}.modal-meta{display:flex;align-items:center;justify-content:space-between;margin-top:20px;padding:15px 0;border-top:1px solid #ded0c1;border-bottom:1px solid #ded0c1}.modal-meta span{color:var(--muted);font-size:15px}.modal-meta strong{color:var(--rose);font-size:22px}
